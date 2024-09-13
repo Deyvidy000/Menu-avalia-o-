@@ -64,15 +64,15 @@
       width: 100%;
       background-color: #f2f2f2;
       padding-left: 90px;
-      padding-top: 60px;
-      padding-bottom: 60px;
+      padding-top: 10px;
+      padding-bottom: 10px;
 }
 
 .card {
       background-color: #f4f4f4;
       border-radius: 10px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      margin: 10px;
+      margin: 100px;
       padding: 52px;
       text-align: center;
       width: 350px;
@@ -124,12 +124,12 @@
 
 .texto h2{
   color: #003366;
-  font-size: 20px;
+  font-size: 40px;
 }
 
 .texto p{
   color: #555555;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .rodape {
